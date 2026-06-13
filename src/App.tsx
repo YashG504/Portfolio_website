@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { FaGithub as Github, FaLinkedin as Linkedin } from 'react-icons/fa';
 import { 
-  Github, Linkedin, Mail, Phone, Code2, Terminal, Briefcase, 
+  Mail, Phone, Code2, Terminal, Briefcase, 
   GraduationCap, ExternalLink, ChevronRight, Menu, X, 
   Server, Layout, Database, Wrench, Award, Sparkles, 
   Rocket, Cpu, Globe, Zap, BrainCircuit, MonitorSmartphone, Layers
